@@ -24,3 +24,6 @@
 
 # Igonre Spring files.
 /spring/*.pid
+
+# JetBrain
+.idea
