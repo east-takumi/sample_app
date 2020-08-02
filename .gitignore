@@ -27,3 +27,6 @@
 
 # JetBrain
 .idea
+
+.generators
+.rakeTasks
