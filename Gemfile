@@ -10,6 +10,7 @@ gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.7.0'
 gem 'bootstrap-sass', '3.4.1'
 gem 'bcrypt',         '3.1.12'
+gem 'faker',          '1.7.3'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
