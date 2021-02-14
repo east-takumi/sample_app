@@ -1,5 +1,5 @@
 current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
-/home/ec2-user/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/ec2-user/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200611-24088-v8453v.rb extconf.rb
+/home/ec2-user/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/ec2-user/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210214-17444-1nno6rf.rb extconf.rb
 creating Makefile
 
 current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20200611-24088-rgcen3/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20210214-17444-ufe1ma/sassc

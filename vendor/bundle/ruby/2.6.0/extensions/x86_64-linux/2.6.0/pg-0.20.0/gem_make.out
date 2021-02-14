@@ -1,5 +1,5 @@
 current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/pg-0.20.0/ext
-/home/ec2-user/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/ec2-user/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20201202-15207-b47k0n.rb extconf.rb
+/home/ec2-user/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/ec2-user/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210214-17444-ow8xkj.rb extconf.rb
 checking for pg_config... yes
 Using config values from /usr/bin/pg_config
 checking for libpq-fe.h... yes
@@ -71,4 +71,4 @@ linking shared-object pg_ext.so
 
 current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/pg-0.20.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20201202-15207-ly1soa
+/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20210214-17444-1fbjmac

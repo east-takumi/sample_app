@@ -1,5 +1,5 @@
 current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
-/home/ec2-user/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/ec2-user/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200609-5233-3fap9x.rb extconf.rb
+/home/ec2-user/.rvm/rubies/ruby-2.6.3/bin/ruby -I /home/ec2-user/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210214-17444-15h2gfj.rb extconf.rb
 creating Makefile
 
 current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
@@ -16,4 +16,4 @@ linking shared-object byebug/byebug.so
 
 current directory: /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 byebug.so ./.gem.20200609-5233-73styu/byebug
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20210214-17444-1vkvw/byebug

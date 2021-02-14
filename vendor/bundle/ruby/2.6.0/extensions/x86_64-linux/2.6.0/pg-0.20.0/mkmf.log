@@ -955,7 +955,7 @@ checked program was:
 /* end */
 
 "gcc -o conftest -I/home/ec2-user/.rvm/rubies/ruby-2.6.3/include/ruby-2.6.0/x86_64-linux -I/home/ec2-user/.rvm/rubies/ruby-2.6.3/include/ruby-2.6.0/ruby/backward -I/home/ec2-user/.rvm/rubies/ruby-2.6.3/include/ruby-2.6.0 -I. -I/usr/include/pgsql92    -O3 -ggdb3 -Wall -Wextra -Wdeclaration-after-statement -Wdeprecated-declarations -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable  -fPIC conftest.c  -L. -L/home/ec2-user/.rvm/rubies/ruby-2.6.3/lib -Wl,-rpath,/home/ec2-user/.rvm/rubies/ruby-2.6.3/lib -L/usr/lib64/pgsql92 -Wl,-rpath,/usr/lib64/pgsql92 -L. -fstack-protector-strong -rdynamic -Wl,-export-dynamic    -lpq  -Wl,-rpath,'/../lib' -Wl,-rpath,'/../lib' -lruby -lpq  -lm   -lc"
-/tmp/ccgXufwf.o: In function `t':
+/tmp/cccnfWTa.o: In function `t':
 /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/pg-0.20.0/ext/conftest.c:15: undefined reference to `PQconninfo'
 collect2: error: ld returned 1 exit status
 checked program was:
@@ -1012,7 +1012,7 @@ checked program was:
 /* end */
 
 "gcc -o conftest -I/home/ec2-user/.rvm/rubies/ruby-2.6.3/include/ruby-2.6.0/x86_64-linux -I/home/ec2-user/.rvm/rubies/ruby-2.6.3/include/ruby-2.6.0/ruby/backward -I/home/ec2-user/.rvm/rubies/ruby-2.6.3/include/ruby-2.6.0 -I. -I/usr/include/pgsql92    -O3 -ggdb3 -Wall -Wextra -Wdeclaration-after-statement -Wdeprecated-declarations -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable  -fPIC conftest.c  -L. -L/home/ec2-user/.rvm/rubies/ruby-2.6.3/lib -Wl,-rpath,/home/ec2-user/.rvm/rubies/ruby-2.6.3/lib -L/usr/lib64/pgsql92 -Wl,-rpath,/usr/lib64/pgsql92 -L. -fstack-protector-strong -rdynamic -Wl,-export-dynamic    -lpq  -Wl,-rpath,'/../lib' -Wl,-rpath,'/../lib' -lruby -lpq  -lm   -lc"
-/tmp/ccLCJVLq.o: In function `t':
+/tmp/cceVCsdr.o: In function `t':
 /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/pg-0.20.0/ext/conftest.c:15: undefined reference to `PQsslAttribute'
 collect2: error: ld returned 1 exit status
 checked program was:
@@ -1307,7 +1307,7 @@ checked program was:
 /* end */
 
 "gcc -o conftest -I/home/ec2-user/.rvm/rubies/ruby-2.6.3/include/ruby-2.6.0/x86_64-linux -I/home/ec2-user/.rvm/rubies/ruby-2.6.3/include/ruby-2.6.0/ruby/backward -I/home/ec2-user/.rvm/rubies/ruby-2.6.3/include/ruby-2.6.0 -I. -I/usr/include/pgsql92    -O3 -ggdb3 -Wall -Wextra -Wdeclaration-after-statement -Wdeprecated-declarations -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable  -fPIC conftest.c  -L. -L/home/ec2-user/.rvm/rubies/ruby-2.6.3/lib -Wl,-rpath,/home/ec2-user/.rvm/rubies/ruby-2.6.3/lib -L/usr/lib64/pgsql92 -Wl,-rpath,/usr/lib64/pgsql92 -L. -fstack-protector-strong -rdynamic -Wl,-export-dynamic    -lpq  -Wl,-rpath,'/../lib' -Wl,-rpath,'/../lib' -lruby -lpq  -lm   -lc"
-/tmp/cc25XvZB.o: In function `t':
+/tmp/cc1XworB.o: In function `t':
 /home/ec2-user/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/pg-0.20.0/ext/conftest.c:15: undefined reference to `rb_w32_wrap_io_handle'
 collect2: error: ld returned 1 exit status
 checked program was:
