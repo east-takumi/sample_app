@@ -1,11 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'rails',        '5.1.6'
+gem 'rails', '5.1.6.1'
 gem 'puma',         '3.12.6'
-gem 'sass-rails',   '5.0.6'
+gem 'sass-rails', '5.0.7'
 gem 'uglifier',     '3.2.0'
-gem 'coffee-rails', '4.2.2'
-gem 'jquery-rails', '4.3.1'
+gem 'coffee-rails', '5.0.0'
+gem 'jquery-rails', '4.3.2'
 gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.7.0'
 gem 'bootstrap-sass', '3.4.1'
@@ -20,14 +20,14 @@ group :development, :test do
 end
 
 group :development do
-  gem 'web-console',           '3.5.1'
+  gem 'web-console', '3.6.0'
   gem 'listen',                '3.1.5'
   gem 'spring',                '2.0.2'
   gem 'spring-watcher-listen', '2.0.1'
 end
 
 group :test do
-  gem 'rails-controller-testing', '1.0.2'
+  gem 'rails-controller-testing', '1.0.3'
   gem 'minitest',                 '5.10.3'
   gem 'minitest-reporters',       '1.1.14'
   gem 'guard',                    '2.16.2'
@@ -42,4 +42,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
-gem "nokogiri", ">= 1.11.0.rc4"
+gem "nokogiri", ">= 1.11.4"
