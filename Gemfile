@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rails',        '5.1.6'
+gem 'rails', '7.0.0'
 gem 'puma',         '3.12.6'
-gem 'sass-rails',   '5.0.6'
+gem 'sass-rails', '6.0.0'
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.3.1'
@@ -42,4 +42,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
-gem "nokogiri", ">= 1.11.0.rc4"
+gem "nokogiri", ">= 1.18.4"
